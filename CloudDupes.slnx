@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CloudDupes.Cli/CloudDupes.Cli.csproj" />
+    <Project Path="src/CloudDupes.Core/CloudDupes.Core.csproj" />
+    <Project Path="src/CloudDupes.Providers.GoogleDrive/CloudDupes.Providers.GoogleDrive.csproj" />
+    <Project Path="src/CloudDupes.Providers.OneDrive/CloudDupes.Providers.OneDrive.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CloudDupes.Core.Tests/CloudDupes.Core.Tests.csproj" />
+  </Folder>
+</Solution>
